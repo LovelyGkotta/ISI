@@ -1,0 +1,7 @@
+numpy
+opencv-python
+pdfplumber
+matplotlib
+torch
+torchvision
+faiss-cpu
